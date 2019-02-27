@@ -1,6 +1,6 @@
 ##### Date: 27/02/2019
 
-AutoComplete from antd
+AutoComplete from antd react
 ----------------------------------------------------
 
 ##### setup instructions
